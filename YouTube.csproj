@@ -11,6 +11,10 @@
     <None Remove="pngwing.com.png" />
     <None Remove="search bar.png" />
     <None Remove="settings.png" />
+    <None Remove="videa\Jede traktor _ POKÁČOVA RYCHLOVKA.mp4" />
+    <None Remove="videa\Miley Cyrus - Flowers %28LIVE at the 66th Grammys%29.mp4" />
+    <None Remove="videa\Refew ft. Marpo - Máma %28OFFICIAL VIDEO%29.mp4" />
+    <None Remove="videa\Separ - Dovidenia %28prod. Peter Pann%29 _Official Video_.mp4" />
     <None Remove="youtube.jpg" />
   </ItemGroup>
 
@@ -22,6 +26,18 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="settings.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="videa\Jede traktor _ POKÁČOVA RYCHLOVKA.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="videa\Miley Cyrus - Flowers (LIVE at the 66th Grammys).mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="videa\Refew ft. Marpo - Máma (OFFICIAL VIDEO).mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="videa\Separ - Dovidenia (prod. Peter Pann) _Official Video_.mp4">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="youtube.jpg">
